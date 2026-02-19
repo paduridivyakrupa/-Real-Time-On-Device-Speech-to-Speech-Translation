@@ -102,7 +102,7 @@ app/
 ## 📸 Application Screenshots
 
 <p align="center">
-  <img src="screenshots/home.png" width="250"/>
+  <img src="screenshots/Screenshot 2026-02-19 212021.png" width="250"/>
   <img src="screenshots/listening.png" width="250"/>
   <img src="screenshots/translation.png" width="250"/>
 </p>
