@@ -95,7 +95,13 @@ app/
 2. Open in Android Studio  
 3. Connect an Arm-based Android device  
 4. Grant microphone permission  
-5. Run the application  
+5. Run the application
+
+---
+
+## App Interface 
+
+<img width="308" height="547" alt="Screenshot 2026-02-19 212021" src="https://github.com/user-attachments/assets/1575632f-f980-4dab-be24-5170bcfd0ce8" />
 
 ---
 
