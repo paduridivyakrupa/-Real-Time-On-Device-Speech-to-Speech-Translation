@@ -1,11 +1,13 @@
 # 🎙️ Real-Time On-Device Speech-to-Speech Translation
-### ⚡ Arm SME2 / NEON Optimized Android Application
+###  Arm SME2 / NEON Optimized Android Application
 
 ---
 
 ## 📌 Project Overview
 
 This project implements a **fully on-device, real-time speech-to-speech translation system** optimized for Arm-based Android devices.
+
+<div align="center">
 
 The application performs:
 
@@ -14,6 +16,8 @@ The application performs:
 • 🔊 Text-to-Speech (TTS)  
 • 🔁 Real-time conversational pipeline  
 
+<div/>
+  
 All processing runs locally on the device without cloud inference.
 
 ---
@@ -22,10 +26,10 @@ All processing runs locally on the device without cloud inference.
 
 To design and deploy a low-latency, energy-efficient speech translation system optimized for:
 
-- 🧠 Arm CPUs
-- ⚡ NEON acceleration
-- 🔋 Mobile power & thermal constraints
-- 📱 Real-time Android execution
+- Arm CPUs
+- NEON acceleration
+- Mobile power & thermal constraints
+- Real-time Android execution
 
 ---
 
@@ -35,14 +39,14 @@ To design and deploy a low-latency, energy-efficient speech translation system o
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🌍 Multi-language support (English, Telugu, Hindi)
-- 🎙️ Continuous speech recognition
-- 🔄 Real-time translation
-- 🔊 Automatic speech synthesis
-- 📶 Fully offline processing
-- 🎨 Clean Android UI
+-  Multi-language support (English, Telugu, Hindi)
+-  Continuous speech recognition
+-  Real-time translation
+-  Automatic speech synthesis
+-  Fully offline processing
+-  Clean Android UI
 
 ---
 
@@ -58,20 +62,20 @@ To design and deploy a low-latency, energy-efficient speech translation system o
 
 ## 🔬 Optimization Strategy
 
-- ✔ Fully on-device processing
-- ✔ No cloud inference
-- ✔ Efficient memory usage
-- ✔ Low-latency pipeline
-- ✔ Designed for Arm architecture
+-  Fully on-device processing
+-  No cloud inference
+-  Efficient memory usage
+-  Low-latency pipeline
+-  Designed for Arm architecture
 
 ---
 
 ## 📊 Performance Goals
 
-- ⏱️ Near real-time latency
-- 🔋 Energy-efficient execution
-- 📉 Reduced CPU usage
-- 🎧 Natural speech output
+-  Near real-time latency
+-  Energy-efficient execution
+-  Reduced CPU usage
+-  Natural speech output
 
 ---
 
@@ -105,22 +109,22 @@ app/
 
 ---
 
-## 👥 Team Members
+##  Team Members
 
 This project was developed by a team of 3 members:
 
-- 👤 Member 1(PADURI DIVYAKRUPA) – Android Development  
-- 👤 Member 2(KURRA SAI DURGA RAJESWARI) – Model Integration & Optimization  
-- 👤 Member 3(MANDA HIMAJA) – Testing & Performance Tuning  
+1. PADURI DIVYAKRUPA                   –          Android Development
+2. KURRA SAI DURGA RAJESWARI           –          Model Integration & Optimization
+3. MANDA HIMAJA                        –          Testing & Performance Tuning  
 
 ---
 
 ## 🏆 Challenge Compliance
 
-✔ Fully Local Processing  
-✔ Efficient Model Usage  
-✔ Arm-Optimized Execution  
-✔ Real-Time Mobile Performance  
+- Fully Local Processing  
+- Efficient Model Usage  
+- Arm-Optimized Execution  
+- Real-Time Mobile Performance  
 
 ---
 
