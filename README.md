@@ -29,9 +29,9 @@ To design and deploy a low-latency, energy-efficient speech translation system o
 
 ---
 
-## 🏗️ System Architecture
+## 🏗️ System Architecture Flowchart
 
-Speech → Speech-to-Text → Translation → Text-to-Speech → Audio Output
+<img width="1536" height="390" alt="ChatGPT Image Feb 19, 2026, 10_38_55 PM" src="https://github.com/user-attachments/assets/3098d3b8-0624-49dc-a220-47939cf0605e" />
 
 ---
 
