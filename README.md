@@ -101,9 +101,12 @@ app/
 
 ## 📸 Application Screenshots
 
-![Home Screen](screenshots/home.png)
-![Listening](screenshots/listening.png)
-![Translation](screenshots/translation.png)
+<p align="center">
+  <img src="screenshots/home.png" width="250"/>
+  <img src="screenshots/listening.png" width="250"/>
+  <img src="screenshots/translation.png" width="250"/>
+</p>
+
 
 ---
 
