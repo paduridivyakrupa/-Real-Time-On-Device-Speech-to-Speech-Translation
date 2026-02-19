@@ -99,9 +99,11 @@ app/
 
 ---
 
-## App Interface 
+## 📸 Application Screenshots
 
-<img width="308" height="547" alt="Screenshot 2026-02-19 212021" src="https://github.com/user-attachments/assets/1575632f-f980-4dab-be24-5170bcfd0ce8" />
+![Home Screen](screenshots/home.png)
+![Listening](screenshots/listening.png)
+![Translation](screenshots/translation.png)
 
 ---
 
