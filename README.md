@@ -7,16 +7,12 @@
 
 This project implements a **fully on-device, real-time speech-to-speech translation system** optimized for Arm-based Android devices.
 
-<div align="center">
-
 The application performs:
 
 • 🎤 Speech Recognition (ASR)  
 • 🌐 On-device Translation  
 • 🔊 Text-to-Speech (TTS)  
 • 🔁 Real-time conversational pipeline  
-
-<div/>
   
 All processing runs locally on the device without cloud inference.
 
